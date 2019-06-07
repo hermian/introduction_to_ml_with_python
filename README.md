@@ -1,4 +1,7 @@
 ﻿# [개정판] 파이썬 라이브러리를 활용한 머신러닝
+
+https://goo.gl/ZHywRU nbviewr
+
 #### 사이킷런(Scikit-Learn) 핵심 개발자가 쓴 머신러닝과 데이터 과학 실무서
 
 ![cover](cover.jpg)
